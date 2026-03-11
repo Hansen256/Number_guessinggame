@@ -6,7 +6,7 @@ int main()
     int guess = 0;
 
     printf("Think of a number between 1 and 31.\n");
-    printf("I will show you 5 tables. Answer y or n for each one.\n\n");
+    printf("I will show you 5 tables. Answer y or n for each one IF your number is in it.\n");
 
     /* --- Table 1 --- */
     printf("Table 1:\n");
